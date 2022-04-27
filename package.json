@@ -1,8 +1,8 @@
 {
     "name": "vlad-boroda-theme",
     "displayName": "Vlad Boroda Theme",
-    "description": "My color theme",
-    "version": "0.0.1",
+    "description": "Vlad Boroda personal color theme",
+    "version": "0.9.0",
     "engines": {
         "vscode": "^1.66.0"
     },
