@@ -1,0 +1,21 @@
+{
+    "name": "vlad-boroda-theme",
+    "displayName": "Vlad Boroda Theme",
+    "description": "My color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VladBoroda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vlad-boroda.json"
+            }
+        ]
+    }
+}
