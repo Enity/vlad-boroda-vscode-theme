@@ -152,7 +152,9 @@
         "interface": "#98C379",
         "variable": "#ABB2BF",
         "macro": "#E06C75",
-        "variable.global": "#E06C75"
+        "variable.global": "#E06C75",
+        "variable.defaultLibrary": "#E5C17C",
+        "struct": "#E5C17C"
     },
     "tokenColors": [
         {
@@ -176,11 +178,13 @@
             }
         },
         {
-            "name": "Css values",
+            "name": "Css values and constants",
             "scope": [
                 "support.constant.property-value.css",
                 "constant.numeric.css",
-                "constant.language.color.rgb-value.css"
+                "constant.language.color.rgb-value.css",
+                "constant.numeric",
+                "constant.language.boolean"
             ],
             "settings": {
                 "foreground": "#D19A66"
