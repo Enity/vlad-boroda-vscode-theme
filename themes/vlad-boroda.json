@@ -246,7 +246,8 @@
             "name": "Fields",
             "scope": [
                 "variable.language.this",
-                "entity.name.tag"
+                "entity.name.tag",
+                "variable.parameter.handlebars"
             ],
             "settings": {
                 "foreground": "#E06C75"
