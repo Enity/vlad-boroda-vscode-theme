@@ -4,8 +4,8 @@ This is fork from OneDarkPro theme
 
 **Enjoy!**
 
-### Build
+## Build
 
 ```bash
-vsce package 
+vsce package
 ```
