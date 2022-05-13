@@ -1,21 +1,21 @@
 {
-    "name": "vlad-boroda-theme",
-    "displayName": "Vlad Boroda Theme",
-    "description": "Vlad Boroda personal color theme",
-    "version": "0.9.2",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "VladBoroda",
-                "uiTheme": "vs-dark",
-                "path": "./themes/vlad-boroda.json"
-            }
-        ]
-    }
+  "name": "vlad-boroda-theme",
+  "displayName": "Vlad Boroda Theme",
+  "description": "Vlad Boroda personal color theme",
+  "version": "0.9.3",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VladBoroda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vlad-boroda.json"
+      }
+    ]
+  }
 }
